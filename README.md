@@ -15,6 +15,8 @@ Free to use, but please cite me. ;)
 
 2. [Hermes]() ([MobiCom2021]()): efficient Federated Learning Framework with pruning weights
 
+3. [DDS]() ([Sigcomm20](https://people.cs.uchicago.edu/~junchenj/docs/DDS-Sigcomm20.pdf)): efficient video streaming using server-driven solutions
+
 
 ### Irrigation Optimization
 1. [WISDOM]() ([SenSys 2019](https://dl.acm.org/doi/pdf/10.1145/3356250.3360023)): optimizing irrigation scheduling at large scale with mositure sensors and data-driven models
